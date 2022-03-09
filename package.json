@@ -5,7 +5,7 @@
   "description": "State machine with synchronization implementation",
   "unity": "2018.4",
   "dependencies": {
-    "com.arxbound.commontools" : "https://github.com/potory/CommonTools.git"
+    "com.arxbound.commontools" : "git+https://github.com/potory/CommonTools"
   },
   "keywords": ["state machine", "lifecycle", "development"],
   "author": {
